@@ -1,0 +1,55 @@
+body{font-family: ‘cwTeXFangSong’, serif;
+}
+.頭圖{
+    text-align: center;  background-color :transparent;
+    height : 300px;    width : 300px;
+    line-height: 300px;
+    margin: 0px auto;
+}
+div.頭圖 img{
+    vertical-align : middle;
+}
+h1{
+    color:#db7093;     
+    text-align: center;
+height:100px ;
+font-size:60px;
+text-shadow: 4px 4px 4px #eec9d0;
+}
+.乾燥玫瑰色{
+    background-color:#eec9d0;
+    padding: 10px;
+    margin:20px;
+}
+.角色{
+    background-color:#eec9d0;
+        padding: 10px;
+        margin:20px;
+}
+.心得{
+    background-color:#eec9d0;
+        padding: 10px;
+        margin:20px;
+}
+h3{
+    padding: 10px;
+    margin:20px;
+}
+.活動照片{
+    text-align: center;  background-color :transparent;
+    height : 500px;    width : 800px;
+    line-height: 500px;
+    margin: 0px auto;
+    margin-bottom: 60px;
+}
+div.活動照片 img{
+    vertical-align : middle;
+}
+
+.photo1{
+    height : 300px;    width : 400px;
+    background-image: url("https://p6sadq.dm.files.1drv.com/y4mu7YlnBFifq4VqQkw-pN1VXVZqrOr1VfLHhjWMnsvS5UUbLxBFo3nHZ3gBP74p_tiPAmKYUe0sYKPFLQ-RJxM-JBaD5eYGsCPen4zDUEjFyBHkIv04Y9YCT0PSOAZ-fnnGRj14bJTcGIvTCzdRUfLhJ-HgucpMVXqcw94gfthWdyHbxwE3j4yExFp1lXOLBiKIs6c6U998oZI5zFaxlYP4w/IMG_20190227_190316.jpg?psid=1");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
