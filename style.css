@@ -4,6 +4,7 @@ body{font-family: ‘cwTeXFangSong’, serif;
     text-align: center;  background-color :transparent;
     height : 300px;    width : 300px;
     line-height: 300px;
+    margin-top: 60px;
     margin: 0px auto;
 }
 div.頭圖 img{
