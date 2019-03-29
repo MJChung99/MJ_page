@@ -45,11 +45,3 @@ h3{
 div.活動照片 img{
     vertical-align : middle;
 }
-
-.photo1{
-    height : 300px;    width : 400px;
-    background-image: url("https://p6sadq.dm.files.1drv.com/y4mu7YlnBFifq4VqQkw-pN1VXVZqrOr1VfLHhjWMnsvS5UUbLxBFo3nHZ3gBP74p_tiPAmKYUe0sYKPFLQ-RJxM-JBaD5eYGsCPen4zDUEjFyBHkIv04Y9YCT0PSOAZ-fnnGRj14bJTcGIvTCzdRUfLhJ-HgucpMVXqcw94gfthWdyHbxwE3j4yExFp1lXOLBiKIs6c6U998oZI5zFaxlYP4w/IMG_20190227_190316.jpg?psid=1");
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
